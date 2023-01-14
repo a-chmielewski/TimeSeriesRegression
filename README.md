@@ -1,7 +1,7 @@
 Stock Price Predictions
 ==============================
 
-Time series prediction tests
+Small educational project on working with regression in time series data.
 
 Project Organization
 ------------
